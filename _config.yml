@@ -1,15 +1,11 @@
 ---
-
-title: "Hola"
-
+title: "Caramba"
 date: 2022-01-10
-
 ---
-
 theme: minima
 
 title: "Your awesome title"
-author: calinramos
+author: "calinramos"
 email: your-email@domain.com
 description: Buenas tardes
 # social links
