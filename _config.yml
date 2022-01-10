@@ -1,13 +1,16 @@
 ---
+
 title: "Caramba"
 date: 2022-01-10
+
 ---
+
 theme: minima
 
 title: "Your awesome title"
-author: "calinramos"
+author: calinramos
 email: your-email@domain.com
-description: Buenas tardes
+description: "Buenas tardes"
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
